@@ -21,7 +21,7 @@ Cuando se diseña un sistema, es importante conocer las posibles amenazas a las 
 
 ## <a name="security-starts-with-a-threat-model"></a>La seguridad comienza con un modelo de riesgos
 
-Microsoft leva mucho tiempo usando modelos de riesgos para sus productos y ha puesto a disposición del público el proceso de modelado de riesgos de la compañía. La experiencia de la compañía muestra que el modelado tiene ventajas inesperadas que van más allá del conocimiento inmediato de qué amenazas son las más preocupantes. Por ejemplo, también facilita el debate abierto con usuarios que no pertenecen al equipo de desarrollo, lo que puede aportar nuevas ideas y mejoras al producto.
+Microsoft lleva mucho tiempo usando modelos de riesgos para sus productos y ha puesto a disposición del público el proceso de modelado de riesgos de la compañía. La experiencia de la compañía muestra que el modelado tiene ventajas inesperadas que van más allá del conocimiento inmediato de qué amenazas son las más preocupantes. Por ejemplo, también facilita el debate abierto con usuarios que no pertenecen al equipo de desarrollo, lo que puede aportar nuevas ideas y mejoras al producto.
 
 El objetivo del modelado de riesgos es conocer la forma en que un atacante puede poner en peligro un sistema y, luego, asegúrese de que se toman las medidas adecuadas para evitarlo. El modelado de riesgos obligan al equipo de diseño a considerar las mitigaciones durante el diseño del sistema, en lugar de después de que este se implementa. Este hecho es extremadamente importante, ya que la actualización de las defensas de la seguridad de un gran número de dispositivos en el campo es inviable, propensa a errores y pone en peligro a los clientes.
 
